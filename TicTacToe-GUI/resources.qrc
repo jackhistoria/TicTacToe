@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>application-exit.png</file>
+        <file>newgame.png</file>
+        <file>O3.png</file>
+        <file>X.png</file>
+        <file>X2.png</file>
+        <file>O2.png</file>
+        <file>X3.png</file>
+        <file>O.png</file>
+    </qresource>
+</RCC>
